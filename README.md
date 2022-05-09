@@ -5,9 +5,9 @@ Vul dit document aan, en deponeer de bestanden die je gebruikte in de beschikbar
 
 ## Eige informatie
 
-- Voornaam Achternaam
-- Klasgroep
-- Groepsnaam
+- Quentin Mignon
+- B
+- Dictator VS Professor
 
 
 ## Storyline 
